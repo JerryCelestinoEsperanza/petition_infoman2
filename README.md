@@ -8,4 +8,3 @@ Oviedo was here!
 
 Scrum master of Team Ryza:
 
-Sir Jerry updated this read me
