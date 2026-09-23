@@ -7,3 +7,4 @@ Scrum master of Metabytes:
 
 Scrum master of Team Ryza:
 
+Sir Jerry updated this read me
